@@ -15,7 +15,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="https://aadi-qya5.onrender.com";
+var hostURL="YOUR-URL";
 //TOGGLE for Shorters
 var use1pt=false;
 
