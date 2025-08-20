@@ -8,7 +8,7 @@
 
 </div>
 
-This tool is based upon [Psi](https://github.com/aadionly/TrackDown) .This is a telegram implementation with extra features than Psi.
+This tool is based upon [TrackDown](https://github.com/aadionly/TrackDown) .This is a telegram implementation with extra features than Psi.
 
 
 [![Run on Repl.it](https://repl.it/badge/github/Th30neAnd0nly/TrackDown)](https://repl.it/github/aadionly/TrackDown)
